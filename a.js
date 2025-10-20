@@ -1,4 +1,3 @@
-
 function add(a, b) {
-    return a + l;
+    return a + b; // fixed: replaced undefined 'm' with parameter 'b'
 }
