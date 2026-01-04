@@ -1,3 +1,3 @@
 function add(a, b) {
-    return a + kk
+    return a + length;
 }
